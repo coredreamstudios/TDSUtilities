@@ -1,0 +1,42 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: BugTracks - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\crock9l\LOCALS~1\Temp\RSP638.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /Fp"Debug/BugTracks.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ   /c 
+"C:\Documents and Settings\crock9l\My Documents\Visual Studio Projects\BugTracks\BugTracksView.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\crock9l\LOCALS~1\Temp\RSP638.tmp" 
+Creating temporary file "C:\DOCUME~1\crock9l\LOCALS~1\Temp\RSP639.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/BugTracks.pdb" /debug /machine:I386 /out:"Debug/BugTracks.exe" /pdbtype:sept 
+".\Debug\BugTracks.obj"
+".\Debug\StdAfx.obj"
+".\Debug\MainFrm.obj"
+".\Debug\BugTracksDoc.obj"
+".\Debug\BugTracksView.obj"
+".\Debug\BugTracks.res"
+]
+Creating command line "link.exe @C:\DOCUME~1\crock9l\LOCALS~1\Temp\RSP639.tmp"
+<h3>Output Window</h3>
+Compiling...
+BugTracksView.cpp
+C:\Documents and Settings\crock9l\My Documents\Visual Studio Projects\BugTracks\BugTracksView.cpp(58) : warning C4244: 'initializing' : conversion from 'const double' to 'int', possible loss of data
+C:\Documents and Settings\crock9l\My Documents\Visual Studio Projects\BugTracks\BugTracksView.cpp(65) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+C:\Documents and Settings\crock9l\My Documents\Visual Studio Projects\BugTracks\BugTracksView.cpp(65) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+C:\Documents and Settings\crock9l\My Documents\Visual Studio Projects\BugTracks\BugTracksView.cpp(66) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+C:\Documents and Settings\crock9l\My Documents\Visual Studio Projects\BugTracks\BugTracksView.cpp(66) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+Linking...
+
+
+
+<h3>Results</h3>
+BugTracks.exe - 0 error(s), 5 warning(s)
+</pre>
+</body>
+</html>

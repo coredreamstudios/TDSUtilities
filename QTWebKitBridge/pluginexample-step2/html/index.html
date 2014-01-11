@@ -1,0 +1,61 @@
+<html>
+    <head>
+        <title>Plugin example page</title>
+        <link rel="stylesheet" href="style.css" type="text/css" />
+        <!-- The jQuery JavaScript library is used to make animations -->
+        <!-- @TODO STEP 7.2 -->
+        <!-- include the jquery-1.4.2.min.js JavaScript library here -->
+        <!-- javascript.js contains application specific JavaScript -->
+        <script type="text/javascript" src="javascript.js">
+        </script>
+    </head>
+
+    <body id="body">
+        <div id="descriptionView">
+            <h2>Select description</h2>
+            <!-- set width to be relative to the page width -->
+            <object id="describeWidgetPlugin" 
+                    type="application/x-qt-examplewidget"
+                    width="100%" height="80%">
+            </object>
+        </div>
+    
+    <div id="mainView">
+        <h1>Describe!</h1>
+        <!-- The first describe form -->
+        <form id="describeform-1" class="describeform">
+            <label for="describetext-1" class="describelabel">
+                Nokia Booklet 3G is a 
+            </label>
+            <input id="describetext-1" type="text" class="describetext" />
+            <a class="describelink"
+               href="javascript:void(0);">Choose...</a>
+            <input type="hidden" value="Laptop" />
+            <div class="full-stop-div"></div>
+        </form>
+        
+        <p class="result"></p>
+        
+        <!-- The second describe form -->
+        <form id="describeform-2" class="describeform">
+            <label for="describetext-2" class="describelabel">
+                Qt SDK contains 
+            </label>
+            <input id="describetext-2" type="text" class="describetext" />
+            <a class="describelink" 
+               href="javascript:void(0);">Choose...</a>
+            <input type="hidden" value="Qt Creator" />
+            <div class="full-stop-div"></div>
+        </form>
+        
+        <p class="result"></p>
+        
+        <!-- Other forms could be added similarly -->
+
+        <div id="checkContainer">
+            <button id="checkButton">Check results!</button>
+        </div>
+        <div id="debug"></div>
+    </div>
+  </body>
+</html>

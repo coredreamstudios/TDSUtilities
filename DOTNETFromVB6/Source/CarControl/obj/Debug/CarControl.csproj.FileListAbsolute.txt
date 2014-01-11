@@ -1,0 +1,9 @@
+C:\Development\DOTNETFromVB6\Source\CarControl\bin\Debug\CarControl.dll
+C:\Development\DOTNETFromVB6\Source\CarControl\bin\Debug\CarControl.pdb
+C:\Development\DOTNETFromVB6\Source\CarControl\bin\Debug\CarControl.tlb
+C:\Development\DOTNETFromVB6\Source\CarControl\obj\Debug\ResolveAssemblyReference.cache
+C:\Development\DOTNETFromVB6\Source\CarControl\obj\Debug\CarControl.Properties.Resources.resources
+C:\Development\DOTNETFromVB6\Source\CarControl\obj\Debug\GenerateResource.read.1.tlog
+C:\Development\DOTNETFromVB6\Source\CarControl\obj\Debug\GenerateResource.write.1.tlog
+C:\Development\DOTNETFromVB6\Source\CarControl\obj\Debug\CarControl.dll
+C:\Development\DOTNETFromVB6\Source\CarControl\obj\Debug\CarControl.pdb

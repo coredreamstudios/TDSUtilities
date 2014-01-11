@@ -1,0 +1,11 @@
+C:\Development\DOTNETFromVB6\Source\CarControlTest\bin\Debug\CarControlTest.exe
+C:\Development\DOTNETFromVB6\Source\CarControlTest\bin\Debug\CarControlTest.pdb
+C:\Development\DOTNETFromVB6\Source\CarControlTest\bin\Debug\CarControl.dll
+C:\Development\DOTNETFromVB6\Source\CarControlTest\bin\Debug\CarControl.pdb
+C:\Development\DOTNETFromVB6\Source\CarControlTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Development\DOTNETFromVB6\Source\CarControlTest\obj\Debug\CarControlTest.Form1.resources
+C:\Development\DOTNETFromVB6\Source\CarControlTest\obj\Debug\CarControlTest.Properties.Resources.resources
+C:\Development\DOTNETFromVB6\Source\CarControlTest\obj\Debug\GenerateResource.read.1.tlog
+C:\Development\DOTNETFromVB6\Source\CarControlTest\obj\Debug\GenerateResource.write.1.tlog
+C:\Development\DOTNETFromVB6\Source\CarControlTest\obj\Debug\CarControlTest.exe
+C:\Development\DOTNETFromVB6\Source\CarControlTest\obj\Debug\CarControlTest.pdb

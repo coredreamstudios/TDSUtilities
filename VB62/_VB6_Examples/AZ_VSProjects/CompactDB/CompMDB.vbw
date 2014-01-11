@@ -1,0 +1,9 @@
+basCntrForm = 183, 103, 630, 511, C
+basDBCompact = 183, 103, 629, 511, C
+basRemoveX = 183, 103, 630, 511, CZ
+basPrevInst = 183, 103, 630, 511, C
+basSHFileOp = 183, 103, 630, 511, C
+basItemExist = 129, 103, 576, 511, C
+basDelTree32 = 129, 103, 576, 511, C
+frmDBMaint = 129, 103, 576, 511, C, 22, 22, 636, 544, C
+OperSysInfo = 129, 103, 576, 511, C

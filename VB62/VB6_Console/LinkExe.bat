@@ -1,0 +1,1 @@
+LinkConsole.vbs Template\ConsoleApp.exe

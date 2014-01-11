@@ -1,0 +1,8 @@
+C:\Documents and Settings\Administrator\Desktop\CrystalReportsApplication1\CrystalReportsApplication1\bin\Debug\CrystalReportsApplication1.exe
+C:\Documents and Settings\Administrator\Desktop\CrystalReportsApplication1\CrystalReportsApplication1\bin\Debug\CrystalReportsApplication1.pdb
+C:\Documents and Settings\Administrator\Desktop\CrystalReportsApplication1\CrystalReportsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\CrystalReportsApplication1\CrystalReportsApplication1\obj\Debug\CrystalReportsApplication1.Form1.resources
+C:\Documents and Settings\Administrator\Desktop\CrystalReportsApplication1\CrystalReportsApplication1\obj\Debug\CrystalReportsApplication1.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\CrystalReportsApplication1\CrystalReportsApplication1\obj\Debug\CrystalReportsApplication1.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\CrystalReportsApplication1\CrystalReportsApplication1\obj\Debug\CrystalReportsApplication1.exe
+C:\Documents and Settings\Administrator\Desktop\CrystalReportsApplication1\CrystalReportsApplication1\obj\Debug\CrystalReportsApplication1.pdb

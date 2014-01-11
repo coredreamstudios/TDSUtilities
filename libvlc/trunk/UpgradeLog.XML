@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="libvlcnet">
+</Property><Property Name="Solution File" Value="C:\Documents and Settings\Administrator\Desktop\trunk\libvlcnet.sln">
+</Property><Property Name="Date" Value="Friday, October 07, 2011">
+</Property><Property Name="Time" Value="12:37 PM">
+</Property></Properties><Event ErrorLevel="0" Project="media-player" Source="media-player\media-player.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="media-player" Source="media-player\media-player.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="media-player-vlc" Source="media-player-vlc\media-player-vlc.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="media-player-vlc" Source="media-player-vlc\media-player-vlc.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="media-player-vlc-winforms" Source="media-player-vlc-winforms\media-player-vlc-winforms.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="media-player-vlc-winforms" Source="media-player-vlc-winforms\media-player-vlc-winforms.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="media-player-vlc-windows" Source="media-player-vlc-windows\media-player-vlc-windows.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="media-player-vlc-windows" Source="media-player-vlc-windows\media-player-vlc-windows.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="simple-player" Source="samples\simple-player\simple-player.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="simple-player" Source="samples\simple-player\simple-player.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="libvlcnet.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="libvlcnet.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="media-player" Source="media-player\media-player.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="media-player-vlc" Source="media-player-vlc\media-player-vlc.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="media-player-vlc-winforms" Source="media-player-vlc-winforms\media-player-vlc-winforms.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="media-player-vlc-windows" Source="media-player-vlc-windows\media-player-vlc-windows.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="simple-player" Source="samples\simple-player\simple-player.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

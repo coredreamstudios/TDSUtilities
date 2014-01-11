@@ -1,0 +1,136 @@
+/* 
+Basic setup for the main view.
+Note that all the sizes are declared with em or as percentages.
+*/
+
+/* 
+This will disable the accidental selection of text, 
+but it has side-effects.
+*/
+
+html, body, div, span, object,
+form, input, h1, h2, button, label, a {
+    -moz-user-select: none;
+    -khtml-user-select: none;
+    -webkit-user-select: none;
+}
+
+input[type=text] {
+    -moz-user-select: text;
+    -khtml-user-select: text;
+    -webkit-user-select: text;
+}
+
+body {
+    font-size: 120%;
+    margin: 0em;
+    padding: 2em 2em 0em;
+    background: #8ede4d;
+}
+
+h1 {
+    margin-top: 0;
+}
+
+form.describeform {
+    padding: 0.5em 0.5em 0em;
+    background: #71c92a;
+    margin: 1em 0em 0em;
+}
+
+label.describelabel {
+    display: block;
+    margin-left: 2%;
+}
+
+input.describetext {
+    display: block;
+    margin-left: 2%;
+    margin-right: 2%;
+    width: 96%;
+}
+
+form.describeform a {
+    color: darkred;
+    float: right;
+    margin: 0.25em 2% 0.5em;
+}
+
+form.describeform a:hover {
+    color: red;
+}
+
+/*
+See 
+http://wiki.forum.nokia.com/index.php/Floating_elements_inside_block_objects_snippet 
+for more information.
+*/
+
+div.full-stop-div {
+    height: 0px;
+    width: 100%;
+    clear: both;
+}
+
+/* 
+Decoration for the "plugin view", containing 
+only the examplewidget plugin 
+*/
+
+body.descriptionView {
+    padding: 1em 1em 0em;
+    background: #7083f1;
+}
+
+#descriptionView {
+    display: none;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#descriptionView object {
+    background: #6273de;
+}
+
+/* Decorations for buttons */
+
+button {
+    color: darkred;
+    background: #71c92a;
+    -webkit-border-radius: 0.5em;
+    -moz-border-radius: 0.5em;
+    border: solid 0.125em black;
+    padding: 0.25em;
+}
+
+button:active {
+    color: red;
+    border: solid 0.125em white;
+    background: #469a02;
+}
+
+#checkContainer {
+    text-align: center;
+    margin: 1em 0em 0em;
+}
+
+#checkButton {
+    font-size: 1.25em;
+}
+
+/* Decorations for result info */
+
+.result {
+    margin: 0em 0em;
+    text-align: center;
+    display: none;
+}
+
+.ok {
+    background-color: green;
+    color: white;
+}
+
+.not-ok {
+    background-color: red;
+}
